@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1saka10010)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Crane1043778796/Crane1043778796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 个人履历：25届大学生
+- 👯 个人博客：[liang302](https://www.cnblogs.com/liang302)
+
+
+## 近日总结
+
+[![lgd8981289's GitHub | Languages Over Time](https://stats.quine.sh/lgd8981289/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lgd8981289)
